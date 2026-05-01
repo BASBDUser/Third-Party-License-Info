@@ -1,5 +1,6 @@
-Third‑Party Software Notices – BD Products
-Overview
+Third‑Party Software Notices
+
+
 This repository contains Third‑Party Software Notice files for multiple Becton, Dickinson and Company (BD) products.
 Each notice file identifies third‑party software components incorporated into a specific product’s software, along with the applicable open‑source license texts and copyright notices, as required by the respective licenses.
 
